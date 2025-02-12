@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "abdb602f9259a5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d170808f609c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe66f1991ea41cd5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91a9a26f9f2c7c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b95e0ee88646ff94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "422826bce2098f9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5c3123adb8ec587",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08bfbcd160aa4558",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7862c71073d73f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ffd9b138aa51f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "134422cc8b3ed356",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5ffd4e96448406f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c2f6ea88b624a0de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "debe8cb4197c2a75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe66f1991ea41cd5",
+  "lastOpenFiles": [
+    "Опишите основное предназначение операционной системы..md",
+    "links.md",
+    "В чем преимущества контейнеров?.md",
+    "Как посмотреть свободное место на диске?.md",
+    "С помощью чего можно собрать информацию о текущем состоянии процессора, памяти, диска, сети?.md",
+    "Что выведут команды2.md",
+    "Какие типы переменных используются в bash?.md",
+    "Что такое скрипт bash?.md",
+    "Что делает команда grep?.md",
+    "Как убить процесс? Какие есть типы сигналов?.md",
+    "Что делает команда grep?",
+    "Как перенаправить одновременно stderr и stdin?.md",
+    "В чем разница между Ctrl+C и Ctrl+Z?.md",
+    "Что произойдет при выполнении команд.md",
+    "Расскажите поэтапно процесс загрузки Linux с момента включения питания компьютера..md",
+    "Что такое inode?.md",
+    "Что такое swappiness?.md",
+    "Что такое zombie process?.md",
+    "Как работают file permissions, зачем директории права исполнения (+x)?.md",
+    "В чем разница между soft и hard symlink?.md",
+    "Что такое Load Average?.md",
+    "Какова файловая структура в Linux (UNIX) системах, расположенных в etc, dev, proc, sys, lib, var?.md",
+    "В чем разница между виртуализацией и контейнеризацией?.md",
+    "Зачем нужны файловые системы? Какие существуют?.md",
+    "Опишите общую архитектуру операционной системы..md",
+    "junior linux.md",
+    "junior common.md"
+  ]
+}
