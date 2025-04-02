@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a76830481d00e790",
+    "id": "d210dcca37aae1de",
     "type": "split",
     "children": [
       {
-        "id": "8f1925655a19a6d5",
+        "id": "895565c8fbcc8d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c216fb89752191",
+            "id": "5cf8504d26bd9930",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,77 +18,63 @@
             }
           },
           {
-            "id": "e2f77d977451de47",
+            "id": "25fa214f132b6c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zombie.md",
+                "file": "zabbix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zombie"
+              "title": "zabbix"
             }
           },
           {
-            "id": "a43fb935db3ad142",
+            "id": "a0c579df524854ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "init.md",
+                "file": "create a webhook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init"
+              "title": "create a webhook"
             }
           },
           {
-            "id": "275b3c9785a8e500",
+            "id": "e93eb2b71db02bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cgroups.md",
+                "file": "trigger action on a webhook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cgroups"
-            }
-          },
-          {
-            "id": "b102e73ecc629ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "namespaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "namespaces"
+              "title": "trigger action on a webhook"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "25c285248d41c912",
+    "id": "b59f1cc74a5efb2c",
     "type": "split",
     "children": [
       {
-        "id": "4c538043207e6acb",
+        "id": "19ec2fdf9b26aa5a",
         "type": "tabs",
         "children": [
           {
-            "id": "1840a54a105e5541",
+            "id": "22c16993f6e9a2f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -101,7 +87,7 @@
             }
           },
           {
-            "id": "a769f3e04756e4aa",
+            "id": "754fcd50298e4c31",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -118,7 +104,7 @@
             }
           },
           {
-            "id": "34dc860ba137e308",
+            "id": "d9744f6651fd9cb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -134,19 +120,20 @@
     "width": 300
   },
   "right": {
-    "id": "d40c12c666b0183c",
+    "id": "466bfca7055d9570",
     "type": "split",
     "children": [
       {
-        "id": "1628e847001d1ac7",
+        "id": "9cc3ba1e61dac8de",
         "type": "tabs",
         "children": [
           {
-            "id": "df21e8699d90ab38",
+            "id": "603b0446be225cdd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "trigger action on a webhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,24 +143,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for trigger action on a webhook"
             }
           },
           {
-            "id": "25ed97df405533b0",
+            "id": "2c7cbe9e4a3e67fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "trigger action on a webhook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from trigger action on a webhook"
             }
           },
           {
-            "id": "2603d57a49c640b2",
+            "id": "fb1f744cfa87e1a6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,17 +176,18 @@
             }
           },
           {
-            "id": "cb0ddc43a6a8f61e",
+            "id": "0447e37f08508e9b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "trigger action on a webhook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of trigger action on a webhook"
             }
           }
         ]
@@ -210,42 +199,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a43fb935db3ad142",
+  "active": "e93eb2b71db02bde",
   "lastOpenFiles": [
-    "zombie.md",
-    "init.md",
-    "orphan.md",
-    "process.md",
-    "cgroups.md",
-    "namespaces.md",
-    "sftp.md",
-    "CAM-table.md",
-    "Environment Variables.md",
-    "DNS.md",
-    "DHCP.md",
-    "STP.md",
-    "dd.md",
-    "HTTPS.md",
-    "VLAN.md",
-    "switch.md",
-    "stdin stdout stderr.md",
-    "file.md",
-    "inode.md",
-    "bootloader.md",
-    "file system.md",
-    "Transport  Layer.md",
-    "NETWORKS.md",
-    "Application Layer.md",
-    "Data Link Layer.md",
-    "UDP.md",
-    "Untitled"
+    "create a webhook.md",
+    "trigger action on a webhook.md",
+    "zabbix.md",
+    "Welcome.md"
   ]
 }
